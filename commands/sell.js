@@ -23,7 +23,7 @@ module.exports = {
             .setDescription('Provide card rarity.')
             .setRequired(true)
             .addChoices(
-                {name: 'silver', value: 'silver'}, {name: 'gold', value: 'gold'}
+                {name: 'silver', value: 'silver'}, {name: 'gold', value: 'gold'}, {name: 'otw', value: 'otw'}, {name: 'bd', value: 'bd'}, {name: 'icon', value: 'icon'}
             )
         )
         .addIntegerOption(option =>

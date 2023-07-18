@@ -23,7 +23,7 @@ module.exports = {
                 },
                 {
                     name: ":beginner: | Utility",
-                    value: `**/ping:** pings the bot and shows latency.\n**/profile:** shows your (or mentioned user's) profile.\n**/lb:** coins leaderboard;`,
+                    value: `**/ping:** pings the bot and shows latency.\n**/profile:** shows your (or mentioned user's) profile.\n**/lb:** coins leaderboard;\n**/inventory:** shows yours (or someone elses) inventory.`,
                     inline: true
                 },
                 {

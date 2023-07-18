@@ -5,24 +5,25 @@
 
     "silvericon": "<:silver:1128693266896932914>",
     "goldicon": "<:gold:1128693293472038942>",
-    "otwicon": "",
-    "heroicon": "",
-    "bdicon": "",
+    "otwicon": "<:otw:1128693306847674418>",
+    "iconicon": "<:icon:1130797610840625242>",
+    "bdicon": "<:bfd:1128693326758039552>",
+    "primeicon": "<:prime:1130812183111024691>",
 
-    "vehmicsilver": {"id": 1, "name": "Vehmic", "rarity": "Silver", "price": 175, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1128996710228709376/vehmicsilver.png"},
+    "vehmicsilver": {"id": 1, "name": "Vehmic", "rarity": "Silver", "price": 190, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1128996710228709376/vehmicsilver.png"},
     "nextsilver": {"id": 2,"name": "Nextrg", "rarity": "Silver", "price": 165, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1128996813110784073/nextrgsilver.png"},
-    "alphasilver": {"id": 3,"name": "AlphaZero", "rarity": "Silver", "price": 200, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129033382425264248/alphasilver.png"},
+    "alphasilver": {"id": 3,"name": "AlphaZero", "rarity": "Silver", "price": 235, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129033382425264248/alphasilver.png"},
     "irongirlssilver": {"id": 4,"name": "Irongirls", "rarity": "Silver", "price": 130, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129033381905186936/irongirlssilver.png"},
     "sythsilver": {"id": 5,"name": "Syth", "rarity": "Silver", "price": 160, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129033381158588416/sythsilver.png"},
     "panzersilver": {"id": 6,"name": "Panzerknight", "rarity": "Silver", "price": 150, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472295490277437/FUT_23__Rare_Silver__Panzerknight__80____bg.png"},
     "cirilicsilver": {"id": 7,"name": "Cirilic", "rarity": "Silver", "price": 160, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472292650717286/FUT_23__Rare_Silver__Cirilic__83____bg.png"},
-    "harmsilver": {"id": 8,"name": "Harm", "rarity": "Silver", "price": 170, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126495900416622592/FUT_23__Rare_Silver__Harm__84____bg.png"},
-    "dtlsilver": {"id": 9,"name": "DTL", "rarity": "Silver", "price": 185, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472294471041045/FUT_23__Rare_Silver__DTL__84____bg.png"},
+    "harmsilver": {"id": 8,"name": "Harm", "rarity": "Silver", "price": 180, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126495900416622592/FUT_23__Rare_Silver__Harm__84____bg.png"},
+    "dtlsilver": {"id": 9,"name": "DTL", "rarity": "Silver", "price": 210, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472294471041045/FUT_23__Rare_Silver__DTL__84____bg.png"},
     "mrtoastysilver": {"id": 10,"name": "MrToasty", "rarity": "Silver", "price": 160, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472295909687296/FUT_23__Rare_Silver__MrToasty__84____bg.png"},
     "shebeelsilver": {"id": 11,"name": "Shebeel", "rarity": "Silver", "price": 110, "img": "https://media.discordapp.net/attachments/1126463326071816252/1126472293506355200/FUT_23__Rare_Silver__Shebeel__78____bg.png"},
     "contrasilver": {"id": 12,"name": "Contra", "rarity": "Silver", "price": 170, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129147981271154769/contrasilver.png"},
     "hexerionsilver": {"id": 13,"name": "Hexerion", "rarity": "Silver", "price": 145, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129153366749106176/Hexerion.png"},
-    "sirfilosilver": {"id": 14,"name": "Sirfilo", "rarity": "Silver", "price": 180, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129154602865008780/sirfilo.png"},
+    "sirfilosilver": {"id": 14,"name": "Sirfilo", "rarity": "Silver", "price": 200, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129154602865008780/sirfilo.png"},
     "kamtesilver": {"id": 15,"name": "Kamte", "rarity": "Silver", "price": 160, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129158092681117857/kamte.png"},
     "epicbroomsilver": {"id": 16,"name": "Epicbroom", "rarity": "Silver", "price": 160, "img": "https://cdn.discordapp.com/attachments/1126463326071816252/1126602724146958508/FUT_23__Rare_Silver__Epic_Broom__83____bg.png"},
     "okiepsilver": {"id": 17,"name": "Okiep", "rarity": "Silver", "price": 140, "img": "https://cdn.discordapp.com/attachments/1126463326071816252/1126606417063850155/FUT_23__Rare_Silver__Okiep__81____bg.png"},
@@ -54,6 +55,37 @@
     "heylogold": {"id": 42, "name": "Heyl0", "rarity": "Gold", "price": 1100, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129766968145219605/heylo.png"},
     "zakaigold": {"id": 43, "name": "Zakai", "rarity": "Gold", "price": 1400, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129769491925057566/zakai.png"},
     "mirkgold": {"id": 44, "name": "Mirk", "rarity": "Gold", "price": 1000, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129808822253396018/mirk.png"},
-    "vehmicgold": {"id": 45, "name": "Vehmic", "rarity": "Gold", "price": 2100, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129813716129546351/vehmic.png"}
+    "vehmicgold": {"id": 45, "name": "Vehmic", "rarity": "Gold", "price": 2100, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1129813716129546351/vehmic.png"},
+
+    "nextotw": {"id": 46, "name": "Nextrg", "rarity": "OTW", "price": 3000, "img": "https://cdn.discordapp.com/attachments/1126281741406064810/1126595286102458438/FUT_23__Ones_to_Watch__Nextrg__87____bg.png"},
+    "dtlotw": {"id": 47, "name": "DTL", "rarity": "OTW", "price": 4000, "img": "https://cdn.discordapp.com/attachments/1126281741406064810/1126434021480599563/FUT_23__Ones_to_Watch__DTL__89____bg.png"},
+    "cirilicotw": {"id": 48, "name": "Cirilic", "rarity": "OTW", "price": 3250, "img": "https://cdn.discordapp.com/attachments/1126281741406064810/1126593217836634162/FUT_23__Ones_to_Watch__Cirilic__90____bg.png"},
+    "krystalotw": {"id": 49, "name": "Krystal", "rarity": "OTW", "price": 3750, "img": "https://cdn.discordapp.com/attachments/1126281741406064810/1126416682617942057/FUT_23__Ones_to_Watch__Krystal__90____bg.png"},
+    "aerowideotw": {"id": 50, "name": "Aerowide", "rarity": "OTW", "price": 4250, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130562870464225410/aerowide_1.png"},
+    "ralseiotw": {"id": 51, "name": "Ralsei", "rarity": "OTW", "price": 4500, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130564117871210619/ralsei_2.png"},
+    "alekirlotw": {"id": 52, "name": "Alekirl", "rarity": "OTW", "price": 4250, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130565022679044186/alekirl.png"},
+    "sombreotw": {"id": 53, "name": "Sombre", "rarity": "OTW", "price": 4000, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130566409957670942/sombre.png"},
+    "lacleyotw": {"id": 54, "name": "Lacley", "rarity": "OTW", "price": 4500, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130568237407555705/lacley.png"},
+    "greencatotw": {"id": 55, "name": "GreenCat", "rarity": "OTW", "price": 4500, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130569012431036446/greencat.png"},
+
+    "blazenbd": {"id": 56, "name": "Blazen", "rarity": "Birthday", "price": 8250, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130586966124146698/FUT_23__FUT_Birthday__Blazen__93____bg.png"},
+    "krystalbd": {"id": 57, "name": "Krystal", "rarity": "Birthday", "price": 8250, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130586965738262658/FUT_23__FUT_Birthday__Krystal__93__.png"},
+    "ralseibd": {"id": 58, "name": "Ralsei", "rarity": "Birthday", "price": 9000, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130585987299426344/FUT_23__FUT_Birthday__RALSEI__96___.png"},
+    "farosebd": {"id": 59, "name": "FaroseQ", "rarity": "Birthday", "price": 9000, "img": "https://cdn.discordapp.com/attachments/1128996601566871633/1130585987819520102/FUT_23__FUT_Birthday__FAROSEQ__96___.png"},
+
+    "blixoicon": {"id": 60, "name": "Blixo", "rarity": "Icon", "price": 16000, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126440151632060477/FUT_23__Icons__Blixo__91____bg.png"},
+    "faroseicon": {"id": 61, "name": "FaroseQ", "rarity": "Icon", "price": 18500, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126496175168684192/FUT_23__Icons__Faroseq__92____bg.png"},
+    "oakleyicon": {"id": 62, "name": "Oakley", "rarity": "Icon", "price": 20500, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126496174006870126/FUT_23__Icons__Oakley__93____bg.png"},
+    "panzericon": {"id": 63, "name": "Panzerknight", "rarity": "Icon", "price": 18000, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126433492176228402/FUT_23__Icons__Panzerknight__92____bg.png"},
+    "senyxicon": {"id": 64, "name": "Senyx", "rarity": "Icon", "price": 22000, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126440150772240394/FUT_23__Icons__Senyx__85____bg.png"},
+    "realistikicon": {"id": 65, "name": "RealistikDash", "rarity": "Icon", "price": 24500, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126440151174889502/FUT_23__Icons__RealistikDash__96____bg.png"},
+    "sythicon": {"id": 66, "name": "Syth", "rarity": "Icon", "price": 18500, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126433491727425576/FUT_23__Icons__Syth__92____bg.png"},
+    "coldicon": {"id": 67, "name": "Cold", "rarity": "Icon", "price": 28000, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126417064362516530/FUT_23__Icons__Cold__98____bg.png"},
+    "blazenicon": {"id": 68, "name": "Blazen", "rarity": "Icon", "price": 28000, "img": "https://cdn.discordapp.com/attachments/1126281634229014608/1126417063880175716/FUT_23__Icons__Blazen__98____bg.png"},
+
+    "coldprime": {"id": 69, "name": "COLD", "rarity": "PRIME", "price": 0, "img": "https://cdn.discordapp.com/attachments/1126281654047088711/1126415786907553802/FUT_23__TOTY_Icons__Cold__100____bg.png"},
+    "blazenprime": {"id": 70, "name": "BLAZEN", "rarity": "PRIME", "price": 0, "img": "https://cdn.discordapp.com/attachments/1126281654047088711/1126415786282590268/FUT_23__TOTY_Icons__Blazen__100____bg.png"}
+
+    
 
 }

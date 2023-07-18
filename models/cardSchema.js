@@ -4,6 +4,7 @@ const cardSchema = new mongoose.Schema({
     userId: {type: String, require: true, unique: true},
     silvercards: {type: Number, default: 0},
     goldcards: {type: Number, default: 0},
+    otwcards: {type: Number, default: 0},
 
     vehmicsilver: {type: Number, default: 0},
     nextsilver: {type: Number, default: 0},
@@ -50,6 +51,33 @@ const cardSchema = new mongoose.Schema({
     zakaigold: {type: Number, default: 0},
     mirkgold: {type: Number, default: 0},
     vehmicgold: {type: Number, default: 0},
+    nextotw: {type: Number, default: 0},
+    dtlotw: {type: Number, default: 0},
+    cirilicotw: {type: Number, default: 0},
+    krystalotw: {type: Number, default: 0},
+    aerowideotw: {type: Number, default: 0},
+    ralseiotw: {type: Number, default: 0},
+    alekirlotw: {type: Number, default: 0},
+    sombreotw: {type: Number, default: 0},
+    lacleyotw: {type: Number, default: 0},
+    greencatotw: {type: Number, default: 0},
+    blazenbd: {type: Number, default: 0},
+    krystalbd: {type: Number, default: 0},
+    ralseibd: {type: Number, default: 0},
+    farosebd: {type: Number, default: 0},
+
+    blixoicon: {type: Number, default: 0},
+    faroseicon: {type: Number, default: 0},
+    oakleyicon: {type: Number, default: 0},
+    panzericon: {type: Number, default: 0},
+    senyxicon: {type: Number, default: 0},
+    realistikicon: {type: Number, default: 0},
+    sythicon: {type: Number, default: 0},
+    coldicon: {type: Number, default: 0},
+    blazenicon: {type: Number, default: 0},
+
+    coldprime: {type: Number, default: 0},
+    blazenprime: {type: Number, default: 0},
 
 }, {strict: false});
 

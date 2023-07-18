@@ -16,7 +16,7 @@ module.exports = {
             {name: 'xdiim', value: 'xdiim'},{name: 'ranif', value: 'ranif'}, {name: 'xdiss', value: 'xdiss'},{name: 'noobseo', value: 'noobseo'},{name: 'nightfalcon', value: 'nightfalcon'},
             {name: 'aerowide', value: 'aero'}, {name: 'lacley', value: 'lacley'},{name: 'alekirl', value: 'alekirl'},{name: 'senyx', value: 'senyx'},{name: 'realistikdash', value: 'realistik'}, 
             {name: 'blixo', value: 'blixo'}, {name: 'sonicdmk', value: 'dmk'}, {name: 'oakley', value: 'oakley'}, {name: 'farose', value: 'farose'},{name: 'zakai', value: 'zakai'}, 
-            {name: 'viber', value: 'viber'}, {name: 'mathieuar', value: 'math'}, {name: 'heylo', value: 'heylo'}, {name: 'mirk', value: 'mirk'}
+            {name: 'viber', value: 'viber'}, {name: 'heylo', value: 'heylo'}, {name: 'mirk', value: 'mirk'}, {name: 'greencat', value: 'greencat'}
         ))
         
         .addStringOption(option => 
@@ -24,7 +24,7 @@ module.exports = {
             .setDescription('Provide card rarity.')
             .setRequired(true)
             .addChoices(
-                {name: 'silver', value: 'silver'}, {name: 'gold', value: 'gold'}
+                {name: 'silver', value: 'silver'}, {name: 'gold', value: 'gold'}, {name: 'otw', value: 'otw'}, {name: 'bd', value: 'bd'}, {name: 'icon', value: 'icon'}
             )
         )
         .addIntegerOption(option =>

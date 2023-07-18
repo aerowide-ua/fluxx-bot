@@ -12,7 +12,7 @@ module.exports = {
         const { coins, level } = profileData;
         const userid = interaction.user.id;
         let randomamount = Math.round(
-            Math.random() * (((100 * (1 + (level * 0.75))) - (10 * (1 + (level * 0.75))) + 1) + (10 * (1 + (level * 0.75))))
+            Math.random() * (((100 * (1 + level)) - (10 * (1 + level)) + 1) + (10 * (1 + level)))
         ); 
 
         const timeleft = 10 + Math.round((cooldownTime - (Date.now() - cooldowns.get(userid)))/1000);

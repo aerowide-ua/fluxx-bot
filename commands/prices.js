@@ -7,7 +7,7 @@ module.exports = {
         .setDescription("Checks prices of cards.")
         .addStringOption(option =>
             option.setName('rarity').setDescription('Select card rarity.').setRequired(true)
-            .addChoices({name: "silver", value: "silver"}, {name: "gold", value: "gold"})
+            .addChoices({name: "silver", value: "silver"}, {name: "gold", value: "gold"}, {name: 'otw', value: 'otw'}, {name: 'bd', value: 'bd'}, {name: 'icon', value: 'icon'})
             ),
     async execute(interaction) {
         const rar = interaction.options.getString('rarity');
@@ -46,8 +46,26 @@ module.exports = {
             addCard('catiogold', 'goldicon'); addCard('mirkgold', 'goldicon');
             addCard('stretchogold', 'goldicon'); addCard('ranifgold', 'goldicon');
             addCard('xendergold', 'goldicon'); addCard('valkyriegold', 'goldicon');
-            
             title = val.goldicon + " | Gold cards prices"
+        } else if (rar == 'otw') {
+            embedcolor = "Purple";
+            addCard('ralseiotw', 'otwicon'); addCard('lacleyotw', 'otwicon'); addCard('greencatotw', 'otwicon');
+            addCard('aerowideotw', 'otwicon'); addCard('alekirlotw', 'otwicon');
+            addCard('dtlotw', 'otwicon'); addCard('sombreotw', 'otwicon'); addCard('krystalotw', 'otwicon');
+            addCard('cirilicotw', 'otwicon'); addCard('nextotw', 'otwicon'); 
+            title = val.otwicon + " | OTW cards prices"
+        } else if (rar == "bd") {
+            embedcolor = "LuminousVividPink";
+            addCard('ralseibd', 'bdicon'); addCard('farosebd', 'bdicon');
+            addCard('blazenbd', 'bdicon'); addCard('krystalbd', 'bdicon');
+            title = val.bdicon + " | Birthday cards prices"
+        } else if (rar == "icon") {
+            embedcolor = "White";
+            addCard('coldicon', 'iconicon');addCard('blazenicon', 'iconicon');addCard('realistikicon', 'iconicon');addCard('senyxicon', 'iconicon'); addCard('oakleyicon', 'iconicon');
+            addCard('blixoicon', 'iconicon'); addCard('faroseicon', 'iconicon');
+            addCard('sythicon', 'iconicon'); addCard('panzericon', 'iconicon');
+            
+            title = val.iconicon + " | Icon cards prices"
         }
 
         const embedreply = new EmbedBuilder()
